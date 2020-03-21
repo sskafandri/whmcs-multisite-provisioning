@@ -9,10 +9,11 @@ There is no license included with this project, however anyone may use it for an
  3. You must not use this code for any illegal reason, that violates the local laws of the location of the server.<br><sub>i.e. if you host your server in the UK, but live in the US, then UK laws apply.</sub>
  
  ### Q & A
-  Q: I would like to help maintain this repository, how can I do that?
-  A: Fork a copy of the code and make your changes, then submit a pull request. After the code has been verified as working and reviewed to code standards, then the request will be approved and your changes will be merged with MASTER.
-  Q: I would like to use this code in a commercial project
-  A: Anyone may use this code in a commercial project but I cannot be held responsible for any damage or loss of business that may occur from your usage of this project.
+  **Q**: I would like to help maintain this repository, how can I do that?<br>
+  **A**: Fork a copy of the code and make your changes, then submit a pull request. After the code has been verified as working and reviewed to code standards, then the request will be approved and your changes will be merged with MASTER.
+  <br><br>
+  **Q**: I would like to use this code in a commercial project<br>
+  **A**: Anyone may use this code in a commercial project but I cannot be held responsible for any damage or loss of business that may occur from your usage of this project.
   
 #### Disclaimer
 The code in this repository is provided as-is, and any usage is your sole responsibility. If you damage your server or break your site, then you are solely responsible.
