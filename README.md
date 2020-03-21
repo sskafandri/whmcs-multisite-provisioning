@@ -19,4 +19,4 @@ There is no license included with this project, however anyone may use it for an
 The code in this repository is provided as-is, and any usage is your sole responsibility. If you damage your server or break your site, then you are solely responsible.
 
 #### Source
-This code was originally property of WPMUDEV, and any unmodified files retain the original license.
+This code was originally property of WPMUDEV, and any unmodified files retain the [original license](https://choosealicense.com/licenses/gpl-2.0/).
